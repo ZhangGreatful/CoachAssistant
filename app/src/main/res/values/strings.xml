@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoachAssistant</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading_title">努力加载中</string>
+    <string name="entry">立即体验</string>
+</resources>
